@@ -3,8 +3,7 @@ sites/*/*settings*.php
 sites/example.sites.php
 
 # Ignore paths that contain generated content.
-files/
-sites/*/files
+
 sites/*/private
 sites/*/translations
 
@@ -34,8 +33,13 @@ update.php
 xmlrpc.php
 /includes
 /misc
-/modules
 /profiles
 /scripts
 /themes
 vendor/
+
+# Ignore site css, js etc.
+sites/*/files/css
+sites/*/files/js
+sites/*/files/php
+sites/*/files/styles

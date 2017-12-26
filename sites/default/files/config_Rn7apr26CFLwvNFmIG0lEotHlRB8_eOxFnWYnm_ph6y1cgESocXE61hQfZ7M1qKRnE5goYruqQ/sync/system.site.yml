@@ -1,0 +1,14 @@
+uuid: 5c30433e-1aae-4f51-a319-aee2ebaa05a7
+name: 'Drupal 8 Training'
+mail: admin@admin.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
